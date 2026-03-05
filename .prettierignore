@@ -49,3 +49,4 @@ examples/**
 # Ignore local working files
 pr.md
 issue.md
+dist/
